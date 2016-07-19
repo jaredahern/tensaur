@@ -1,0 +1,5 @@
+# this file is used to specify requirements for readthedocs builds
+
+# sphinx >= 1.4 is required for sphinx.ext.githubpage
+sphinx >= 1.4
+
