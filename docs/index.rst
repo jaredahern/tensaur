@@ -10,8 +10,13 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
+   :glob:
 
    tensor
+   programming_languages/programming_languages
+   programming_languages/*
+   references
 
 Indices and tables
 ==================
