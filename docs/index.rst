@@ -1,21 +1,18 @@
-.. tensaur documentation master file, created by
-   sphinx-quickstart on Mon Jul 18 19:36:12 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
+===================================
 Welcome to tensaur's documentation!
 ===================================
+
+Tensaur is a multi-language library for optimized arithmetic on
+tensors and tensor-like objects.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
    :glob:
 
-   tensor
+   tensors/tensors
    programming_languages/programming_languages
-   programming_languages/*
    references
 
 Indices and tables
