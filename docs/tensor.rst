@@ -1,4 +1,0 @@
-Tensor
-======
-
-A tensor is...
