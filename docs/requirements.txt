@@ -2,4 +2,4 @@
 
 # sphinx >= 1.4 is required for sphinx.ext.githubpage
 sphinx >= 1.4
-sphinxcontrib
+sphinxcontrib.bibtex
