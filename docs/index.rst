@@ -11,8 +11,8 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   tensors/tensors
-   programming_languages/programming_languages
+   mathobjs/index
+   proglang/index
    references
 
 Indices and tables
