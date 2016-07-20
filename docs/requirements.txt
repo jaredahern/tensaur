@@ -2,6 +2,6 @@
 
 # sphinx >= 1.4 is required for sphinx.ext.githubpage
 sphinx >= 1.4
-sphinxcontrib.bibtex
+sphinxcontrib-bibtex
 pip >= 8.1.0
 wheel >= 0.29.0
