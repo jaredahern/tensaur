@@ -18,7 +18,7 @@ example: see :cite:`aris1962vectors` for more info.
 .. include:: order4.rst
 
 This documentation may also need to discuss vector spaces, manifolds,
-fields, and other higher-level constructs. In the future, tensaur may
-also possibly address items such as pseudoscalars, pseudovectors,
-pseudotensors, bivectors, quaternions, biquaternions, other
-multilinear/Grassman exterior product multivectors.
+fields, bases, and other higher-level constructs. In the future,
+tensaur may also possibly address items such as pseudoscalars,
+pseudovectors, pseudotensors, bivectors, quaternions, biquaternions,
+other multilinear/Grassman exterior product multivectors.

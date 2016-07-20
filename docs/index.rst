@@ -11,8 +11,12 @@ Contents:
    :maxdepth: 2
    :glob:
 
+   introduction
    mathobjs/index
+   mathops/index
    proglang/index
+   types/index
+   procedures/index
    references
 
 Indices and tables
