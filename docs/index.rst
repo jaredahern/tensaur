@@ -1,6 +1,6 @@
-===================================
-Welcome to tensaur's documentation!
-===================================
+===================
+Welcome to Tensaur!
+===================
 
 Tensaur is a multi-language library for optimized arithmetic on
 tensors and tensor-like objects.
